@@ -1,7 +1,6 @@
 using FinalTask.Pages;
 using FinalTask.Test_condotions;
 using FluentAssertions;
-using OpenQA.Selenium.BiDi.Communication;
 
 namespace FinalTask
 {
