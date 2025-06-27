@@ -5,7 +5,7 @@ using FluentAssertions;
 namespace FinalTask
 {
     [Parallelizable(ParallelScope.All)]
-    public class Tests : BaseTest
+    public class NUnitTests1 : BaseTest
     {
         [Test]
         [TestCaseSource(nameof(LoginData))]
